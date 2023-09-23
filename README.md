@@ -33,4 +33,4 @@
 ```
 
 ### Etc
-![alt text](https://github.com/straufer/React-Spring-boot/blob/main/imgpng?raw=true)
+![alt text](https://github.com/straufer/React-Spring-boot/blob/main/img.png?raw=true)
