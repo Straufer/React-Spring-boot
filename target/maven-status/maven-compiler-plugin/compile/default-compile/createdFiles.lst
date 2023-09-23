@@ -1,0 +1,5 @@
+com/paung/controller/OrangController.class
+com/paung/TestingConnectionPsqlApplication.class
+com/paung/repos/OrangRepository.class
+com/paung/service/OrangService.class
+com/paung/entity/OrangEntity.class
